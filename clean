@@ -1,0 +1,2 @@
+rm ~/.git-credentials
+echo ~/.git-credentials is verwijderd.

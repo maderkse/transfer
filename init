@@ -1,0 +1,6 @@
+git config --global core.editor "vi"
+git config --global user.name "Name"
+git config --global user.email "your.email@example.com"
+git config --global credential.helper store
+cp git-credentials ~/.git-credentials
+vi ~/.git-credentials
